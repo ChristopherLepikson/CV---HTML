@@ -1,13 +1,16 @@
 {
-
-"name": "Spring Day (Exposé Data)",
-
-"dataColors": [ "#5cbae5", "#b6d957", "#fac364", "#9ea8ad", "#1b7eac", "#759422", "#dd8e07", "#69767c", "#abdbf2", "#d7eaa2", "#fde5bd", "#d5dadc" ],
-
-"background":"#FFFFFF",
-
-"foreground": "#1b7eac",
-
-"tableAccent":"#5cbae5"
-
+    "name": "Plataforma V3",
+    "dataColors": ["# 568410", "# 3A6108", "# 70A322", "# 915203", "# D79A12", "# bb7711", "# 114400", "# aacc66"],
+    "plano de fundo": "# F1F3F4",
+    "primeiro plano": "# F1F3F4",
+    "tableAccent": "# F1F3F4",
+    "visualStyles": {
+        "*": {
+            "*": {
+                "*": [{
+                        "fontFamily": "Poppins"
+                    }]
+            }
+        }
+    }
 }
